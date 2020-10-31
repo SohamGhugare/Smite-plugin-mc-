@@ -1,0 +1,13 @@
+name: Smite
+main: io.github.SohamGhugare.Smite.Smite
+version: 0.0.1
+author: SohamGhugare
+api-version: 1.16
+commands: 
+  smite: 
+    description: Strikes the player with a thunder bolt.
+    usage: /<command>
+permissions:
+  Smite.smite:
+    description: Strikes the player with a thunder bolt.
+    default: op
